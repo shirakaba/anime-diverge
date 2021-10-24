@@ -50,7 +50,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'home',
+            docId: 'about/home',
             position: 'left',
             label: 'Home',
           },
@@ -65,15 +65,15 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          // {
-          //   title: 'Shows',
-          //   items: [
-          //     {
-          //       label: 'Home',
-          //       to: '/shows/home',
-          //     },
-          //   ],
-          // },
+          {
+            title: 'Shows',
+            items: [
+              {
+                label: 'Home',
+                to: '/docs/about/home',
+              },
+            ],
+          },
           {
             title: 'Community',
             items: [
