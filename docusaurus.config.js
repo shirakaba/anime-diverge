@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Anime Diverge',
+  tagline: 'Find when the manga or light novel picks up from any anime',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -42,19 +42,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Anime Diverge',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Anime Diverge logo',
+          src: 'img/undraw_book_lover.svg',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'home',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Home',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/shirakaba/anime-diverge',
             label: 'GitHub',
@@ -69,8 +69,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Home',
+                to: '/docs/home',
               },
             ],
           },
