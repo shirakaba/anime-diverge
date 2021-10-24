@@ -48,8 +48,6 @@ Series 3 of the anime will cover the rest of Part 2 of the manga; i.e. **Part 2 
 
 ## Web novel
 
-The web novel has been removed from publication, but various chapters are still available through the internet wayback machine. There are presumably unofficial translation groups who picked up the web novel while it was still available.
-
 Series 1 presumably covers all of Part 1 of the Web Novel.
 
 The final episode of Series 2 of the anime covers several chapters in the middle of Part 2: [chapter 129](https://ncode.syosetu.com/n4830bu/129/), [chapter 132](https://ncode.syosetu.com/n4830bu/132/), and [chapter 133](https://ncode.syosetu.com/n4830bu/133/), skipping chapters 130-131.
