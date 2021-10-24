@@ -1,3 +1,7 @@
+---
+title: "The Rising of the Shield Hero / Tate no Yuusha no Nariagari"
+---
+
 # Shield Hero
 
 Where does the **Shield Hero** anime leave off?
