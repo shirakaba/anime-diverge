@@ -27,4 +27,4 @@ Series 1 of the anime covers **chapters 1-111** of the web novel[[3]](https://ww
 ## Other info
 
 * [List of Shield Hero volumes](https://en.wikipedia.org/wiki/List_of_The_Rising_of_the_Shield_Hero_volumes) (Wikipedia)
-* [Shield Hero](https://anilist.co/anime/99263/Tate-no-Yuusha-no-Nariagari) (AniList)
+* [Shield Hero anime](https://anilist.co/anime/99263/Tate-no-Yuusha-no-Nariagari) (AniList)
