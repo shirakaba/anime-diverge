@@ -6,11 +6,11 @@ title: "Ascendance of a Bookworm / Honzuki no Gekokujou: Shisho ni Naru Tame ni 
 
 Where does the **Ascendance of a Bookworm** anime leave off?
 
-First off, we need to recount the anime structure:
+The anime has two series aired so far:
 
 * Series 1: 14 episodes, aired 3rd Oct 2019 -> 26th Dec 2019
 * Series 2: 12 episodes, aired 5th Apr 2020 -> 21st Jun 2020
-* Series 3: ? episodes, to air during the spring in 2022.
+* Series 3: ? episodes, airing Spring 2022
 
 ## Light novel
 
@@ -29,7 +29,7 @@ Series 3 of the anime will cover the rest of Part 2 of the light novel; **Part 2
 
 * Read Part 2 volume 3 in English: [Amazon US](https://www.amazon.com/gp/product/B084BWGGXS)
 * Read Part 3 volume 1 in English: [Amazon US](https://www.amazon.com/gp/product/B089GVG8TB)
-* See all volumes in English: [Amazon US](https://www.amazon.com/Ascendance-Bookworm-10-Book/dp/B08RYY44GB)
+* Read all volumes in English: [Amazon US](https://www.amazon.com/Ascendance-Bookworm-10-Book/dp/B08RYY44GB)
 
 ## Manga
 

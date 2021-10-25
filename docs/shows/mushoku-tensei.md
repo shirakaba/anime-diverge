@@ -6,6 +6,11 @@ title: "Jobless Reincarnation / Mushoku Tensei: Isekai Ittara Honki Dasu"
 
 Where does the **Mushoku Tensei** anime leave off?
 
+The anime has two series aired so far:
+
+* Series 1: 11 episodes, aired 11th Jan 2021 -> 22nd March 2021
+* Series 2: 12 episodes, airing 4th Oct 2021 -> present
+
 ## Light novel
 
 Series 1 of the anime covers **volumes 1-3** of the light novel[[1]](https://www.reddit.com/r/mushokutensei/comments/mrh3fa/where_does_the_anime_leave_off_in_the_light_novel/gum8tv2/).
@@ -15,6 +20,7 @@ Between series 1 and 2 of the anime, there is apparently a light novel chapter "
 Series 2 of the anime, which is currently airing, resumes from **volume 4** of the light novel[[1]](https://www.reddit.com/r/mushokutensei/comments/mrh3fa/where_does_the_anime_leave_off_in_the_light_novel/gum8tv2/).
 
 * Read volume 4 in English: [Amazon US](https://www.amazon.com/Mushoku-Tensei-Jobless-Reincarnation-Light-ebook/dp/B07W4FZWDL)
+* Read all volumes in English: [Amazon US](https://www.amazon.com/dp/B083BZSQ85)
 
 ## Manga
 
@@ -25,7 +31,7 @@ Series 1 of the anime covers chapters 1-26 of the manga[[2]](https://www.reddit.
 Series 2 of the anime, which is currently airing, I presume covers **volume 4** onward.
 
 * Read volume 4 in English: [Amazon US](https://www.amazon.com/Mushoku-Tensei-Jobless-Reincarnation-Vol/dp/1626923426)
-* See all volumes in English: [Amazon US](https://www.amazon.com/dp/B07JJNK8L8)
+* Read all volumes in English: [Amazon US](https://www.amazon.com/dp/B07JJNK8L8)
 
 ## Web novel
 
