@@ -26,7 +26,7 @@ Series 2 of the anime, which is currently airing, resumes from **volume 4** of t
 
 *Warning: there is a common sentiment that the manga is a bad adaptation, skipping out much of the contents of the Light Novel.*
 
-Series 1 of the anime covers chapters 1-26 of the manga[[2]](https://www.reddit.com/r/mushokutensei/comments/mat5xq/where_does_the_anime_leave_off_in_the_manga/)[[3]](https://www.reddit.com/r/manga/comments/ma5bkr/what_chapter_of_the_manga_does_the_anime_version/grqkftk/), specifically ending midway through chapter 26. (i.e. **volumes 1-3**).
+Series 1 of the anime covers chapters 1-26 of the manga (i.e. **volumes 1-3**)[[2]](https://www.reddit.com/r/mushokutensei/comments/mat5xq/where_does_the_anime_leave_off_in_the_manga/)[[3]](https://www.reddit.com/r/manga/comments/ma5bkr/what_chapter_of_the_manga_does_the_anime_version/grqkftk/), specifically ending midway through chapter 26.
 
 Series 2 of the anime, which is currently airing, I presume covers **volume 4** onward.
 
