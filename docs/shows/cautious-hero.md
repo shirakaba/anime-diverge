@@ -33,7 +33,7 @@ Series 1 of the anime covers **all of the manga released so far – i.e. by epis
 
 Series 1 of the anime covers **chapters 1-51** (i.e. part 1) of the web novel (source: read contents of chapter 51).
 
-* Read chapter 52 in Japanese: [小説家になろう](https://kakuyomu.jp/works/1177354054881165840/episodes/1177354054882053698)
+* Read chapter 52 in Japanese: [カクヨム](https://kakuyomu.jp/works/1177354054881165840/episodes/1177354054882053698)
 * Read all chapters in Japanese: [カクヨム](https://kakuyomu.jp/works/1177354054881165840)
 
 ## Other info
