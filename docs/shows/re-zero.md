@@ -22,6 +22,7 @@ Series 1 of the anime covers arcs 1-3, i.e. **volumes 1-9** of the light novel (
 
 Series 2 of the anime covers arc 4, i.e. **volumes 10-15** of the light novel[[1]](https://rezero.fandom.com/wiki/Arc_4?commentId=4400000000000028240&replyId=4400000000000079916)[[2]](https://rezero.fandom.com/f/p/4400000000000037089/r/4400000000000131422).
 
+* Read volume 16 in English: [Amazon US](https://www.amazon.com/gp/product/B08XQ7DRGR)
 * Read volumes 1-15 in English: [Amazon US](https://www.amazon.com/dp/B084YX78DJ)
 * Read volumes 16-17 in English: [Amazon US](https://www.amazon.com/dp/B094NN486N)
 

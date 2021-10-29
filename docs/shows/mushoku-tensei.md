@@ -40,6 +40,7 @@ Series 1 of the anime covers **volumes 1-3** of the web novel (based on these vo
 Series 2 of the anime, which is currently airing, should therefore resume from **volume 4** of the web novel by the same logic.
 
 * Read chapter 34 (the first chapter of volume 4) in Japanese: [小説家になろう](https://ncode.syosetu.com/n9669bk/38/)
+* Read all chapters in Japanese: [小説家になろう](https://ncode.syosetu.com/n9669bk)
 
 ## Other info
 
