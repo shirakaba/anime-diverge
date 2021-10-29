@@ -14,12 +14,14 @@ There are 3 volumes of the light novel released in English (9 in Japanese) at th
 
 Here is how the volumes line up[[1]](https://www.reddit.com/r/MobuSeka/comments/jr5xkc/mobuseka_faqmegathread/):
 
-* Volume 1 of the manga covers light novel Volume 1 Chapters 1-5
-* Volume 2 of the manga covers light novel Volume 1 Chapters 5-10
-* Volume 3 of the manga covers light novel Volume 1 Chapter 10 to Volume 2 Chapter 1
-* Volume 4 of the manga covers light novel Volume 2 Chapters 2-4
-* Volume 5 of the manga covers light novel Volume 2 Chapters 4-7
-* Volume 6 of the manga covers light novel Volume 2 Chapters 7-10
+* Volume 1 of the manga covers light novel volume 1 chapters 1-5;
+* Volume 2 of the manga covers light novel volume 1 chapters 5-10;
+* Volume 3 of the manga covers light novel volume 1 chapter 10 to volume 2 chapter 1;
+* Volume 4 of the manga covers light novel volume 2 chapters 2-4;
+* Volume 5 of the manga covers light novel volume 2 chapters 4-7;
+* Volume 6 of the manga covers light novel volume 2 chapters 7-10.
+
+... So you can continue from light novel volume 3:
 
 * Read volume 3 in English: [Amazon US](https://www.amazon.com/gp/product/B095N2P41J)
 * Read all volumes in English: [Amazon US](https://www.amazon.com/dp/B08NQ2X8X2)
