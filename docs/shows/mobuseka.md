@@ -37,7 +37,9 @@ See the bullet points above for which chapters of the manga are covered by which
 
 ## Web novel
 
-I'm not clear how the web novel lines up with the light novel, but I can see one of the last chapters in part two, [黒騎士](https://ncode.syosetu.com/n3191eh/25/) corresponds with the same-named upcoming instalment of the manga: volume 7, chapter 36.
+The web novel has seven parts, comprising 176 chapters, and appears to be complete as of October 2019.
+
+I can see one of the last chapters in part two, [黒騎士](https://ncode.syosetu.com/n3191eh/25/), corresponds with the same-named upcoming instalment of the manga: volume 7, chapter 36.
 
 So **volumes 1-7 of the manga broadly cover parts 1-2 of the web novel**.
 
