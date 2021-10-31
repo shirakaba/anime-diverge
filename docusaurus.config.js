@@ -24,12 +24,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/shirakaba/anime-diverge/edit/main/website/',
+          editUrl: 'https://github.com/shirakaba/anime-diverge/edit/master/',
         },
         blog: {
           // showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/shirakaba/anime-diverge/edit/main/website/blog/',
+          editUrl: 'https://github.com/shirakaba/anime-diverge/edit/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
