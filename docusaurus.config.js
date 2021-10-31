@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Anime Diverge',
-  tagline: 'Find when the manga or light novel picks up from any anime',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'Find when the manga or light novel picks up from a given anime',
+  url: 'https://animediverge.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -24,12 +24,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          // editUrl: 'https://github.com/shirakaba/anime-diverge/edit/main/website/',
+          editUrl: 'https://github.com/shirakaba/anime-diverge/edit/main/website/',
         },
         blog: {
           // showReadingTime: true,
           // Please change this to your repo.
-          // editUrl: 'https://github.com/shirakaba/anime-diverge/edit/main/website/blog/',
+          editUrl: 'https://github.com/shirakaba/anime-diverge/edit/main/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
