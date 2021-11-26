@@ -15,7 +15,9 @@ The anime has two series:
 
 There are 14 volumes of the light novel released (in both English and Japanese) at the time of writing.
 
-Series 1 of the anime covers **volumes 1-3** of the light novel[[1]](https://www.reddit.com/r/HowToSummonADemonLord/comments/9hidd8/light_novelmanga/e6cdzhb/)[[2]](https://www.reddit.com/r/HowToSummonADemonLord/comments/9z9bbc/should_i_start_from_volume_1_or_where_the_anime/ea7smei/)[[3]](https://www.reddit.com/r/anime/comments/mkzzop/how_not_to_summon_a_demon_lord_ω_season_2_will_be/gtjlty6/).
+Series 1 of the anime covers **volumes 1-3** of the light novel[[1]](https://www.reddit.com/r/HowToSummonADemonLord/comments/9hidd8/light_novelmanga/e6cdzhb/)[[2]](https://www.reddit.com/r/HowToSummonADemonLord/comments/9z9bbc/should_i_start_from_volume_1_or_where_the_anime/ea7smei/)[[3]](https://www.reddit.com/r/anime/comments/mkzzop/how_not_to_summon_a_demon_lord_ω_season_2_will_be/gtjlty6/)[[4]](https://www.reddit.com/r/anime/comments/nwv9h8/isekai_maou_to_shoukan_shoujo_no_dorei_majutsu_ω/h1ebrnu/).
+
+Series 2 of the anime covers **volumes 4-6** of the light novel[[4]](https://www.reddit.com/r/anime/comments/nwv9h8/isekai_maou_to_shoukan_shoujo_no_dorei_majutsu_ω/h1ebrnu/)[[5]](https://www.reddit.com/r/anime/comments/q26vmm/how_not_to_summon_a_demon_lord_which_chapter_in/hfjew6e/).
 
 <!-- TODO: series 2 -->
 
@@ -29,6 +31,8 @@ There are 13 volumes of the manga released in English (15 in Japanese) at the ti
 
 Series 1 of the anime covers **all of volumes 1-8** of the manga (source: the initial chapter titles of volume 9 match the starting events of season 2).
 
+Series 2 of the anime covers **all of volumes 1-8** of the manga
+
 <!-- TODO: series 2 -->
 
 <!-- * Read volume 3 in English: [Amazon US](https://www.amazon.com/gp/product/B08TY6PBM6)
@@ -36,13 +40,9 @@ Series 1 of the anime covers **all of volumes 1-8** of the manga (source: the in
 
 ## Web novel
 
-Series 1 of the anime covers **chapters 1-81** of the web novel[[4]](https://www.reddit.com/r/Arifureta/comments/mk6c16/where_does_the_anime_endleave_off_in_the_web_novel/gterbff/).
+I can't find any legitimate links to the original web novel, so perhaps it has gone out of publication since the light novel began being published.
 
-<!-- 
-Unable to find it.
-* Read chapter 82 in Japanese: [カクヨム](https://kakuyomu.jp/works/1177354054881165840/episodes/1177354054882053698)
-* Read all chapters in Japanese: [カクヨム](https://kakuyomu.jp/works/1177354054881165840)
--->
+I also can't find a reference as to where the anime leaves off in the web novel.
 
 ## Other info
 
