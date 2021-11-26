@@ -29,7 +29,7 @@ There are 13 volumes of the manga released in English (15 in Japanese) at the ti
 
 Series 1 of the anime covers **all of volumes 1-8** of the manga (source: the initial chapter titles of volume 9 match the starting events of season 2).
 
-Series 2 of the anime covers **all of volumes 9-11** of the manga[6](https://www.reddit.com/r/HowToSummonADemonLord/comments/omveyp/question/).
+Series 2 of the anime covers **all of volumes 9-11** of the manga[[6]](https://www.reddit.com/r/HowToSummonADemonLord/comments/omveyp/question/).
 
 <!-- * Read volume 3 in English: [Amazon US](https://www.amazon.com/gp/product/B08TY6PBM6)
 * Read all volumes in English: [Amazon US](https://www.amazon.com/dp/B08135Y4T4) -->
