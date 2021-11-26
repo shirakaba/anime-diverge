@@ -2,7 +2,7 @@
 title: "How NOT to Summon a Demon Lord / Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
 ---
 
-# Cautious Hero
+# How NOT to Summon a Demon Lord
 
 Where does the **Demon Lord** anime leave off?
 
