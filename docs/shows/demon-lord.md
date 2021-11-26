@@ -4,7 +4,7 @@ title: "How NOT to Summon a Demon Lord / Isekai Maou to Shoukan Shoujo no Dorei 
 
 # How NOT to Summon a Demon Lord
 
-Where does the **Demon Lord** anime leave off?
+Where does the **How NOT to Summon a Demon Lord** anime leave off?
 
 The anime has two series:
 
@@ -42,7 +42,7 @@ I also can't find a reference as to where the anime leaves off in the web novel.
 
 ## Other info
 
-* [List of Demon Lord episodes](https://en.wikipedia.org/wiki/How_Not_to_Summon_a_Demon_Lord) (Wikipedia)
-* [List of Demon Lord volumes (manga and light novel)](https://en.wikipedia.org/wiki/List_of_How_Not_to_Summon_a_Demon_Lord_volumes) (Wikipedia)
-* [Demon Lord anime series 1](https://anilist.co/anime/101004/Isekai-Maou-to-Shoukan-Shoujo-no-Dorei-Majutsu/) (AniList)
-* [Demon Lord anime series 2](https://anilist.co/anime/117448/Isekai-Maou-to-Shoukan-Shoujo-no-Dorei-Majutsu-/) (AniList)
+* [List of How NOT to Summon a Demon Lord episodes](https://en.wikipedia.org/wiki/How_Not_to_Summon_a_Demon_Lord) (Wikipedia)
+* [List of How NOT to Summon a Demon Lord volumes (manga and light novel)](https://en.wikipedia.org/wiki/List_of_How_Not_to_Summon_a_Demon_Lord_volumes) (Wikipedia)
+* [How NOT to Summon a Demon Lord anime series 1](https://anilist.co/anime/101004/Isekai-Maou-to-Shoukan-Shoujo-no-Dorei-Majutsu/) (AniList)
+* [How NOT to Summon a Demon Lord anime series 2](https://anilist.co/anime/117448/Isekai-Maou-to-Shoukan-Shoujo-no-Dorei-Majutsu-/) (AniList)
