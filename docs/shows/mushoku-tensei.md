@@ -4,6 +4,32 @@ title: "Jobless Reincarnation / Mushoku Tensei: Isekai Ittara Honki Dasu"
 
 # Mushoku Tensei
 
+<table>
+  <caption><em>How the anime lines up with the different media (approximate)</em></caption>
+  <thead>
+    <tr>
+      <th scope "col">Web Novel</th>
+      <th scope "col">Light Novel</th>
+      <th scope "col">Manga</th>
+      <th scope "col">Anime</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>V01C01 → V03C14</td>
+      <td>V01C01 → V03C14</td>
+      <td>V01C01 → V05C26</td>
+      <td>S01E01 → S01E11</td>
+    </tr>
+    <tr>
+      <td>V03C14 → V06C13</td>
+      <td>V04C01 → V06C13</td>
+      <td>V06C27 → V11C52</td>
+      <td>S01E12 → S01E23</td>
+    </tr>
+  </tbody>
+</table>
+
 Where does the **Mushoku Tensei** anime leave off?
 
 The anime has two series aired so far:
