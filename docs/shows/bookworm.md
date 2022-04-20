@@ -4,6 +4,42 @@ title: "Ascendance of a Bookworm / Honzuki no Gekokujou: Shisho ni Naru Tame ni 
 
 # Ascendance of a Bookworm
 
+<table>
+  <caption>How the anime lines up with the different media (approximate).<em><strong>P</strong>: Part; <strong>V</strong>: Volume; <strong>C</strong>: Chapter; <strong>S</strong>: Season; <strong>E</strong>: Episode.</em></caption>
+  <thead>
+    <tr>
+      <th scope "col">Web Novel</th>
+      <th scope "col">Light Novel</th>
+      <th scope "col">Manga</th>
+      <th scope "col">Anime</th>
+      <th scope "col">Comments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://ncode.syosetu.com/n4830bu/1/">P01C001</a> → <a href="https://ncode.syosetu.com/n4830bu/77/">P01C077</a></td>
+      <td>P01V01C01 → P01V03C24</td>
+      <td>P01V01C01 → P01V01C07</td>
+      <td>S01E01 → S01E14</td>
+      <td>This group adapts all of Part 1 of the light novel.</td>
+    </tr>
+    <tr>
+      <td><a href="https://ncode.syosetu.com/n4830bu/78/">P02C078</a> → <a href="https://ncode.syosetu.com/n4830bu/133/">P02C133</a></td>
+      <td>P02V01C01 → P02V02C24</td>
+      <td>P02V01C01 → P02V02C09</td>
+      <td>S02E01 → S02E12</td>
+      <td>This group adapts Part 2, Volumes 1-2 of the light novel.</td>
+    </tr>
+    <tr>
+      <td><a href="https://ncode.syosetu.com/n4830bu/134/">P02C134</a> → <a href="https://ncode.syosetu.com/n4830bu/172/">P02C172</a></td>
+      <td>P02V03C01 → P02V04C15</td>
+      <td>P02V03C10 → P02V07C??</td>
+      <td>S03E01 → S03E10</td>
+      <td>This group adapts Part 2, Volumes 3-4 of the light novel.</td>
+    </tr>
+  </tbody>
+</table>
+
 Where does the **Ascendance of a Bookworm** anime leave off?
 
 The anime has two series aired so far:
