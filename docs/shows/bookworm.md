@@ -5,7 +5,7 @@ title: "Ascendance of a Bookworm / Honzuki no Gekokujou: Shisho ni Naru Tame ni 
 # Ascendance of a Bookworm
 
 <table>
-  <caption>How the anime lines up with the different media (approximate).<em><strong>P</strong>: Part; <strong>V</strong>: Volume; <strong>C</strong>: Chapter; <strong>S</strong>: Season; <strong>E</strong>: Episode.</em></caption>
+  <caption><p>How the anime lines up with the different media (approximate).</p><p><em><strong>P</strong>: Part; <strong>V</strong>: Volume; <strong>C</strong>: Chapter; <strong>S</strong>: Season; <strong>E</strong>: Episode.</em></p></caption>
   <thead>
     <tr>
       <th scope "col">Web Novel</th>
