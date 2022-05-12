@@ -68,30 +68,16 @@ There are also two OVA episodes that followed soon after each series ended, and 
 
 ## Light novel
 
-There are 15 volumes of the light novel released in English (17 in Japanese) for the main series at the time of writing.
-
 Series 1 of the anime broadly covers **volumes 1-2** of the light novel[[1]](https://anime.stackexchange.com/questions/42909/which-ln-volumes-are-covered-in-season-12-of-konosuba-anime), with some of the contents of volume 2 delegated to series 2 episode 3 instead.
 
 Series 2 of the anime broadly covers **volumes 3-4** of the light novel[[1]](https://anime.stackexchange.com/questions/42909/which-ln-volumes-are-covered-in-season-12-of-konosuba-anime), though as mentioned, episode 3 covers some of volume 2.
 
-The movie covers **volume 5** of the light novel[[2]](https://discord.com/channels/210521487378087947/429384033840005131/903754366043955251).
+I believe the OVAs are original anime-only stories that are not based on any web novel or light novel contents.
 
-As for the OVAs, I can't see matching titles amongst the light novel chapters for either of them. That could indicate that they are original stories, but I can't be sure.
-
-* Read volume 5 in English: [Amazon US](https://www.amazon.com/Konosuba-Blessing-Wonderful-World-Crimson/dp/0316468789)
 * Read all volumes in English: [Amazon US](https://www.amazon.com/dp/B0852ZR1BY)
 
 ## Manga
 
-There are 12 volumes of the manga released in English (14 in Japanese) for the main series at the time of writing.
-
-Series 1 of the anime covers **volumes 1-4** of the manga (source: just reading the synopses).
-
-Series 2 of the anime, episodes 8-10 cover **volume 7** of the manga (source: just reading the synopsis).
-
-The Legend of Crimson movie covers manga **volumes 8-9** (source: just reading the synopses).
-
-* Read volume 10 in English: [Amazon US](https://www.amazon.com/gp/product/B082P8QV8T)
 * Read all volumes in English: [Amazon US](https://www.amazon.com/dp/B07JKFG947)
 
 ## Web novel
@@ -106,15 +92,7 @@ It is said that the order of the plot in the web novel is sufficiently different
 
 My impression from reading the Yahoo user groups comments was that the light novel had surpassed the web novel both in length and in plot covered, so it would be best to just read that instead!
 
-<!--
-Someone asking in Japanese where season 2 leaves off in the web novel (with no useful response):
-https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10218383435
-> このすばのアニメ2期の続きをWeb版で読みたいのですが第何部の何話からですか？
-> 出来ればurlを貼ってくださると嬉しいです！
--->
-
-* Read all chapters in Japanese: [小説家になろう](https://archive.ph/20130827082350/http://ncode.syosetu.com/n7145bl/#selection-1359.0-1359.2)
-
+* Read all chapters in Japanese: [小説家になろう via Internet Wayback Machine](https://archive.ph/20130827082350/http://ncode.syosetu.com/n7145bl/#selection-1359.0-1359.2)
 
 ## Other info
 
