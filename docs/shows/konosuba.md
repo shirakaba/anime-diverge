@@ -1,5 +1,5 @@
 ---
-title: "KonoSuba - God's blessing on this wonderful world! / Kono Subarashii Sekai ni Shukufuku wo!"
+title: "KonoSuba - God's blessing on this wonderful world!"
 ---
 
 # KonoSuba

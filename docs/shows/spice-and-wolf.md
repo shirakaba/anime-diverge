@@ -1,5 +1,5 @@
 ---
-title: "Spice and Wolf / Ookami to Koushinryou"
+title: "Spice and Wolf"
 ---
 
 # Spice and Wolf

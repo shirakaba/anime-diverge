@@ -1,5 +1,5 @@
 ---
-title: "Cautious Hero: The Hero Is Overpowered but Overly Cautious / Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru"
+title: "Cautious Hero: The Hero Is Overpowered but Overly Cautious"
 ---
 
 # Cautious Hero

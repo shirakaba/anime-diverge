@@ -1,5 +1,5 @@
 ---
-title: "Rascal Does Not Dream of Bunny Girl Senpai / Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+title: "Rascal Does Not Dream of Bunny Girl Senpai"
 ---
 
 # Bunny Girl Senpai

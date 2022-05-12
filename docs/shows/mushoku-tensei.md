@@ -1,5 +1,5 @@
 ---
-title: "Jobless Reincarnation / Mushoku Tensei: Isekai Ittara Honki Dasu"
+title: "Jobless Reincarnation"
 ---
 
 # Mushoku Tensei

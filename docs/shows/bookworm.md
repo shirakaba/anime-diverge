@@ -1,5 +1,5 @@
 ---
-title: "Ascendance of a Bookworm / Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
+title: "Ascendance of a Bookworm"
 ---
 
 # Ascendance of a Bookworm

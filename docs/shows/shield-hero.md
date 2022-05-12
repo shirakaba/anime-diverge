@@ -1,5 +1,5 @@
 ---
-title: "The Rising of the Shield Hero / Tate no Yuusha no Nariagari"
+title: "The Rising of the Shield Hero"
 ---
 
 # Shield Hero

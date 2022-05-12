@@ -1,5 +1,5 @@
 ---
-title: "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs / Otomege Sekai wa Mob ni Kibishii Sekai desu"
+title: "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs"
 ---
 
 # MobuSeka

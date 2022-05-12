@@ -1,5 +1,5 @@
 ---
-title: "Re:ZERO -Starting Life in Another World- / Re:Zero kara Hajimeru Isekai Seikatsu"
+title: "Re:ZERO -Starting Life in Another World-"
 ---
 
 # Re:Zero

@@ -1,5 +1,5 @@
 ---
-title: "How NOT to Summon a Demon Lord / Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
+title: "How NOT to Summon a Demon Lord"
 ---
 
 # How NOT to Summon a Demon Lord

@@ -1,5 +1,5 @@
 ---
-title: "That Time I Got Reincarnated as a Slime / Tensei Shitara Slime Datta Ken"
+title: "That Time I Got Reincarnated as a Slime"
 ---
 
 # Tensura

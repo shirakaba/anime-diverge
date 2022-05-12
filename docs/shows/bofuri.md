@@ -1,5 +1,5 @@
 ---
-title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. / Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
+title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
 ---
 
 # Bofuri
