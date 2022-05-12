@@ -4,6 +4,27 @@ title: "Cautious Hero: The Hero Is Overpowered but Overly Cautious / Shinchou Yu
 
 # Cautious Hero
 
+<table>
+    <thead>
+        <tr>
+            <th>Web Novel</th>
+            <th>Light Novel</th>
+            <th>Manga</th>
+            <th>Anime</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ch. 1-51</td>
+            <td>Vol. 1-2</td>
+            <td>Vol. 1-3+</td>
+            <td>Series 1, ep. 1-12</td>
+            <td>Series 1 of the anime covers all released manga (vol. 1-3 at the time of writing) by ep. 6.</td>
+        </tr>
+    </tbody>
+</table>
+
 Where does the **Cautious Hero** anime leave off?
 
 The anime has one series:

@@ -4,6 +4,34 @@ title: "The Rising of the Shield Hero / Tate no Yuusha no Nariagari"
 
 # Shield Hero
 
+<table>
+    <thead>
+        <tr>
+            <th>Web Novel</th>
+            <th>Light Novel</th>
+            <th>Manga</th>
+            <th>Anime</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ch. 1-111</td>
+            <td>Vol. 1-5</td>
+            <td>Vol. 1-11</td>
+            <td>Season 1, ep. 1-25</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Ch. 112-?</td>
+            <td>Vol. 6-?</td>
+            <td>Vol. 12-?</td>
+            <td>Season 2, ep. 1-13</td>
+            <td>Season 2 of the anime is still airing at the time of writing.</td>
+        </tr>
+    </tbody>
+</table>
+
 Where does the **Shield Hero** anime leave off?
 
 The anime has one series aired so far:

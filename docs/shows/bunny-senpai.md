@@ -4,6 +4,34 @@ title: "Rascal Does Not Dream of Bunny Girl Senpai / Seishun Buta Yarou wa Bunny
 
 # Bunny Girl Senpai
 
+<table>
+    <thead>
+        <tr>
+            <th>Web Novel</th>
+            <th>Light Novel</th>
+            <th>Manga</th>
+            <th>Anime</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>N/A</td>
+            <td>Vol. 1-5</td>
+            <td>Vol. 1-2+</td>
+            <td>Series 1, ep. 1-13</td>
+            <td>Series 1 of the anime covers all released manga (vol. 1-2 at the time of writing) by ep. 6.</td>
+        </tr>
+        <tr>
+            <td>N/A</td>
+            <td>Vol. 6-7</td>
+            <td>N/A</td>
+            <td>Movie: &quot;Rascal Does Not Dream of a Dreaming Girl&quot;</td>
+            <td> </td>
+        </tr>
+    </tbody>
+</table>
+
 Where does the **Bunny Girl Senpai** anime leave off?
 
 The anime has one series:

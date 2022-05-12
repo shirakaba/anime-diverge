@@ -4,6 +4,41 @@ title: "Spice and Wolf / Ookami to Koushinryou"
 
 # Spice and Wolf
 
+<table>
+    <thead>
+        <tr>
+            <th>Web Novel</th>
+            <th>Light Novel</th>
+            <th>Manga</th>
+            <th>Anime</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>N/A</td>
+            <td>Vol. 1-2</td>
+            <td>Vol. 1-6</td>
+            <td>Series 1, ep. 1-13</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>N/A</td>
+            <td>?</td>
+            <td>?</td>
+            <td>OVA: &quot;Wolf and the Amber Melancholy&quot;</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>N/A</td>
+            <td>Vol. 3 and vol. 5</td>
+            <td>Vol. 7-8</td>
+            <td>Series 2, ep. 1-12</td>
+            <td> </td>
+        </tr>
+    </tbody>
+</table>
+
 Where does the **Spice and Wolf** anime leave off?
 
 The anime has two series:

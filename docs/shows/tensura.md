@@ -4,6 +4,41 @@ title: "That Time I Got Reincarnated as a Slime / Tensei Shitara Slime Datta Ken
 
 # Tensura
 
+<table>
+    <thead>
+        <tr>
+            <th>Web Novel</th>
+            <th>Light Novel</th>
+            <th>Manga</th>
+            <th>Anime</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ch. 1-63</td>
+            <td>Vol. 1-4</td>
+            <td>Vol. 1-11</td>
+            <td>Season 1, ep. 1-24</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Ch. 64-73</td>
+            <td>Vol. 5</td>
+            <td>Vol. 12-16</td>
+            <td>Season 2, part 1, ep. 1-12</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Ch. 73-83</td>
+            <td>Vol. 6</td>
+            <td>Vol. 16-19</td>
+            <td>Season 2, part 2, ep. 1-12</td>
+            <td> </td>
+        </tr>
+    </tbody>
+</table>
+
 Where does the **Tensura** anime leave off?
 
 The anime has two series:

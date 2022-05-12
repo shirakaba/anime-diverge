@@ -4,6 +4,34 @@ title: "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs / Ot
 
 # MobuSeka
 
+<table>
+    <thead>
+        <tr>
+            <th>Web Novel</th>
+            <th>Light Novel</th>
+            <th>Manga</th>
+            <th>Anime</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ch. 1-18</td>
+            <td>Vol. 1</td>
+            <td>Vol. 1-3</td>
+            <td>Series 1, ep. 1-6</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Ch. 19-?</td>
+            <td>Vol. 2-?</td>
+            <td>Vol. 4-?</td>
+            <td>Series 1, ep. 7-12</td>
+            <td>At the time of writing, these episodes of the anime are still airing, so the endpoint is unclear.</td>
+        </tr>
+    </tbody>
+</table>
+
 Where does the **MobuSeka** manga leave off?
 
 There is no anime series yet, but maybe you'd like to continue on from the manga.

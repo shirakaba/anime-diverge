@@ -4,6 +4,27 @@ title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. / Itai no 
 
 # Bofuri
 
+<table>
+    <thead>
+        <tr>
+            <th>Web Novel</th>
+            <th>Light Novel</th>
+            <th>Manga</th>
+            <th>Anime</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ch. 1-127</td>
+            <td>Vol. 1-4</td>
+            <td>Vol. 1-5+</td>
+            <td>Season 1, ep. 1-12</td>
+            <td>Vol. 5 of the manga is still behind season 1 of the anime.</td>
+        </tr>
+    </tbody>
+</table>
+
 Where does the **Bofuri** anime leave off?
 
 The anime has one series:

@@ -4,6 +4,55 @@ title: "KonoSuba - God's blessing on this wonderful world! / Kono Subarashii Sek
 
 # KonoSuba
 
+<table>
+    <thead>
+        <tr>
+            <th>Web Novel</th>
+            <th>Light Novel</th>
+            <th>Manga</th>
+            <th>Anime</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>?</td>
+            <td>Vol. 1-2</td>
+            <td>Vol. 1-4</td>
+            <td>Series 1, ep. 1-10</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>OVA 1: &quot;God&#39;s Blessings on This Wonderful Choker!&quot;</td>
+            <td>OVA 1 was bundled with vol. 9 of the LN. It aired between series 1 and 2 of the anime, however.</td>
+        </tr>
+        <tr>
+            <td>?</td>
+            <td>Vol. 3-4</td>
+            <td>Vol. 5-7</td>
+            <td>Series 2, ep. 1-10</td>
+            <td>From vol. 6 of the LN, the LN diverges from the WN.</td>
+        </tr>
+        <tr>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>OVA 2: &quot;God&#39;s Blessings on This Wonderful Work Of Art!&quot;</td>
+            <td>OVA 2 was bundled with vol. 12 of the LN. It aired between series 2 of the anime and the movie, however.</td>
+        </tr>
+        <tr>
+            <td>?</td>
+            <td>Vol. 5</td>
+            <td>Vol. 8-9</td>
+            <td>Movie: &quot;Legend of Crimson&quot;</td>
+            <td> </td>
+        </tr>
+    </tbody>
+</table>
+
 Where does the **KonoSuba** anime leave off?
 
 The anime has two series aired so far:

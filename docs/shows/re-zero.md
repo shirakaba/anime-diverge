@@ -4,6 +4,41 @@ title: "Re:ZERO -Starting Life in Another World- / Re:Zero kara Hajimeru Isekai 
 
 # Re:Zero
 
+<table>
+    <thead>
+        <tr>
+            <th>Web Novel</th>
+            <th>Light Novel</th>
+            <th>Manga</th>
+            <th>Anime</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Arcs 1-3</td>
+            <td>Vol. 1-9</td>
+            <td>Ch. 1, vol. 1 – Ch. 3, vol. 10</td>
+            <td>Series 1, episodes 1-25</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Arc 4, ch. 1-77</td>
+            <td>Vol. 10-12</td>
+            <td>Ch. 3, vol. 11 – Ch. 4, vol. 2+ </td>
+            <td>Series 2, part 1, episodes 1-13</td>
+            <td>The manga is well behind the anime: Ch. 4, vol. 1 of the manga corresponds to the anime series 2, part 1, ep. 3. </td>
+        </tr>
+        <tr>
+            <td>Arc 4, ch. 78-130</td>
+            <td>Vol. 13-15</td>
+            <td>Ch. 4, vol. 2+ </td>
+            <td>Series 2, part 2, episodes 1-12</td>
+            <td>The manga is well behind the anime.</td>
+        </tr>
+    </tbody>
+</table>
+
 Where does the **Re:Zero** anime leave off?
 
 The anime has two series and some OVAs:
