@@ -55,7 +55,6 @@ Starting from **volume 8, chapter 47**, the manga covers new material (from the 
 
 * Read all volumes in English: [Amazon US](https://www.amazon.com/dp/B07JKGN4VX)
 
-
 ## Other info
 
 * [List of Spice and Wolf episodes](https://en.wikipedia.org/wiki/List_of_Spice_and_Wolf_episodes) (Wikipedia)

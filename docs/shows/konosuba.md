@@ -4,6 +4,8 @@ title: "KonoSuba - God's blessing on this wonderful world! / Kono Subarashii Sek
 
 # KonoSuba
 
+Where does the **KonoSuba** anime leave off?
+
 <table>
     <thead>
         <tr>
@@ -52,19 +54,6 @@ title: "KonoSuba - God's blessing on this wonderful world! / Kono Subarashii Sek
         </tr>
     </tbody>
 </table>
-
-Where does the **KonoSuba** anime leave off?
-
-The anime has two series aired so far:
-
-* Series 1: 10 episodes, aired 13th Jan 2016 -> 16th March 2016
-* OVA 1: "God's Blessings on This Wonderful Choker!", released Jun 24th, 2016
-* Series 2: 10 episodes, aired 12th Jan 2017 -> 16th March 2017
-* OVA 2: "God's Blessings on This Wonderful Work Of Art!", released Jul 24th, 2017
-* Movie: "Legend of Crimson", released Aug 30th, 2019
-* Series 3: still only a rumour!
-
-There are also two OVA episodes that followed soon after each series ended, and two movies.
 
 ## Light novel
 
