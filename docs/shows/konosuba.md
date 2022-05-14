@@ -33,7 +33,7 @@ Where does the **KonoSuba** anime leave off?
         </tr>
         <tr>
             <td>?</td>
-            <td>Vol. 3-4</td>
+            <td>Vol. 2-4</td>
             <td>Vol. 5-7</td>
             <td>Series 2, ep. 1-10</td>
             <td>From vol. 6 of the LN, the LN diverges from the WN.</td>
@@ -57,9 +57,7 @@ Where does the **KonoSuba** anime leave off?
 
 ## Light novel
 
-Series 1 of the anime broadly covers **volumes 1-2** of the light novel[[1]](https://anime.stackexchange.com/questions/42909/which-ln-volumes-are-covered-in-season-12-of-konosuba-anime), with some of the contents of volume 2 delegated to series 2 episode 3 instead.
-
-Series 2 of the anime broadly covers **volumes 3-4** of the light novel[[1]](https://anime.stackexchange.com/questions/42909/which-ln-volumes-are-covered-in-season-12-of-konosuba-anime), though as mentioned, episode 3 covers some of volume 2.
+Series 2 of the anime focuses on **volumes 3-4** of the light novel, though episode 3 goes back to cover some of the contents of **volume 2** that were skipped over in series 1[[1]](https://anime.stackexchange.com/questions/42909/which-ln-volumes-are-covered-in-season-12-of-konosuba-anime).
 
 I believe the OVAs are original anime-only stories that are not based on any web novel or light novel contents.
 
