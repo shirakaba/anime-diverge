@@ -18,35 +18,37 @@ Where does the **The Familiar of Zero** anime leave off?
     </thead>
     <tbody>
         <tr>
-            <td></td>
+            <td>?</td>
             <td>Vol. 1-?</td>
-            <td></td>
+            <td>?</td>
             <td>Season 1: ep. 1-13</td>
             <td></td>
         </tr>
         <tr>
-            <td></td>
+            <td>?</td>
             <td>Vol. ?-?</td>
-            <td></td>
+            <td>?</td>
             <td>Season 2, "Knight of the Twin Moons": ep. 1-12</td>
             <td></td>
         </tr>
         <tr>
-            <td></td>
+            <td>?</td>
             <td>Vol. ?-12</td>
-            <td></td>
+            <td>?</td>
             <td>Season 3, "'Rondo' of Princesses": ep. 1-12</td>
             <td></td>
         </tr>
         <tr>
-            <td></td>
+            <td>?</td>
             <td>Vol. 13-22</td>
-            <td></td>
+            <td>?</td>
             <td>Season 4, "F": ep. 1-12</td>
             <td>The anime ends in the middle of vol. 19.</td>
         </tr>
     </tbody>
 </table>
+
+I'm missing a lot of the information needed to fill in the rest of this table, so any help would be appreciated!
 
 ## Manga
 
