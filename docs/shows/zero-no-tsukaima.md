@@ -43,7 +43,7 @@ Where does the **The Familiar of Zero** anime leave off?
             <td>Vol. 13-22</td>
             <td>?</td>
             <td>Season 4, "F": ep. 1-12</td>
-            <td>The anime ends in the middle of vol. 19.</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
